@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Story App</string>
+
+    <string name="title_welcome_page">Welcome to the Story App!</string>
+    <string name="message_welcome_page">In this app, you can easily upload your daily stories or anything you want to share. Enjoy sharing your stories with other users!</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_login_page">Are you ready to share your story?</string>
+    <string name="message_login_page">Please Sign In with your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_signup_page">Please fill your data in below</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="photo">Photo</string>
+
+    <string name="name_required">The name field is required.</string>
+    <string name="email_required">The email field is required.</string>
+    <string name="password_required">The password field is required.</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please choose an image file.</string>
+    <string name="illustration_login">Illustration Login</string>
+    <string name="add_story">Add Story</string>
+    <string name="illustration_signup">Illustration Signup</string>
+    <string name="illustration_welcome">Illustration Welcome</string>
+    <string name="photo_place_holder">Photo Place Holder</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="retry">Retry</string>
+    <string name="current_location">Current location</string>
+</resources>
